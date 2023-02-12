@@ -2,7 +2,7 @@
 
 <h3 align="center">An App development student in development</h3>
 
-- 🔭 I’m currently working on AI programmation for videogame
+- 🔭 I’m currently working on AI programmation for videogames
 
 - 🌱 I’m currently learning NodeJs
 
