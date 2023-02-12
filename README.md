@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 
-<h3 align="center">An App development student in development</h3>
+<h3 align="center">An App development student looking for new experiences</h3>
 
 - 🔭 I’m currently working on AI programmation for videogames
 
