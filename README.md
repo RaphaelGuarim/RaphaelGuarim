@@ -18,8 +18,39 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/raphael-guarim-322b94243" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165581-1b36737f-bf9e-43f5-a897-d6208c3e51a8.png" alt="acheong08" width="60" /></a>
+<a href="https://www.linkedin.com/in/raphael-guarim-322b94243" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36258159/210165581-1b36737f-bf9e-43f5-a897-d6208c3e51a8.png" alt="data" width="60" /></a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/>
+  </a>
+  <a href="https://www.java.com/fr/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/>
+  </a>
+  <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
+  </a>
+  <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="32" height="32"/>
+  </a>
+  <a href="https://fr.wikipedia.org/wiki/C%2B%2B">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="32" height="32"/>
+  </a>
+</p>
+
+
+| <a href="https://github.com/RaphaelGuarim/github-readme-stats"> ![Raphael Guarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelGuarim&theme=dark&show_icons=true) </a> | <a href="https://github.com/RaphaelGuarim/github-readme-stats"> ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGuarim&layout=compact&theme=dark&hide_border=true")</a> |
+| ------------- | ------------- |
+
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=RaphaelGuarim.RaphaelGuarim">
