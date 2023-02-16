@@ -46,6 +46,9 @@
   <a href="https://fr.wikipedia.org/wiki/C%2B%2B">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   </a>
+  <a href="https://openjfx.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/f/fe/SceneBuilderLogo.png" alt="javascript" width="50" height="50"/>
+  </a>
 </p>
 
 
