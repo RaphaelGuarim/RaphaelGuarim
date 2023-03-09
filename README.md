@@ -51,10 +51,9 @@
   </a>
 </p>
 
-<! --
+
 | <a href="https://github.com/RaphaelGuarim/github-readme-stats"> ![Raphael Guarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelGuarim&theme=dark&show_icons=true) </a> | <a href="https://github.com/RaphaelGuarim/github-readme-stats"> ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGuarim&layout=compact&theme=dark&hide_border=true")</a> |
 | ------------- | ------------- |
--->
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=RaphaelGuarim.RaphaelGuarim">
+
