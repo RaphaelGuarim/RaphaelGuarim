@@ -49,6 +49,9 @@
   <a href="https://openjfx.io/">
     <img src="https://upload.wikimedia.org/wikipedia/fr/f/fe/SceneBuilderLogo.png" alt="javascript" width="50" height="50"/>
   </a>
+  <a href="https://chat.openai.com/chat">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/langfr-1024px-ChatGPT_logo.svg.png" alt="javascript" width="50" height="50"/>
+  </a>
 </p>
 
 
