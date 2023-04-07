@@ -55,7 +55,7 @@
 </p>
 
 
-| <a href="https://github.com/RaphaelGuarim/github-readme-stats"> ![Raphael Guarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelGuarim&theme=dark&show_icons=true) </a> | <a href="https://github.com/RaphaelGuarim/github-readme-stats"> ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGuarim&layout=compact&theme=dark&hide_border=true")</a> |
+| <a href="https://github.com/RaphaelGuarim/github-readme-stats"> ![Raphael Guarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelGuarim&theme=dark&show_icons=true) </a> | <a href="https://github.com/RaphaelGuarim/github-readme-stats">   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelGuarim&langs_count=8&theme=react)</a> |
 | ------------- | ------------- |
 
 
