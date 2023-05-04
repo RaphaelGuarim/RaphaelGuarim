@@ -37,21 +37,32 @@
   <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
   </a>
+  <span> &nbsp </span>
   <a href="https://www.javascript.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
+  <span> &nbsp </span>
   <a href="https://www.postgresql.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
   </a>
   <a href="https://fr.wikipedia.org/wiki/C%2B%2B">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
   </a>
+  <a href="https://flutter.dev">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="javascript" width="50" height="50"/>
+  </a>
+  <a href="https://www.qt.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="javascript" width="50" height="50"/>
+  </a>
+  <span> &nbsp </span>
   <a href="https://openjfx.io/">
     <img src="https://upload.wikimedia.org/wikipedia/fr/f/fe/SceneBuilderLogo.png" alt="javascript" width="50" height="50"/>
   </a>
+  <span> &nbsp </span>
   <a href="https://chat.openai.com/chat">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/langfr-1024px-ChatGPT_logo.svg.png" alt="javascript" width="50" height="50"/>
   </a>
+  
 </p>
 
 
