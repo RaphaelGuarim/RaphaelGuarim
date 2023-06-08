@@ -28,6 +28,9 @@
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="50" height="50"/>
+  </a>
   <a href="https://www.java.com/fr/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
@@ -62,6 +65,7 @@
   <a href="https://chat.openai.com/chat">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/langfr-1024px-ChatGPT_logo.svg.png" alt="javascript" width="50" height="50"/>
   </a>
+  
   
 </p>
 
