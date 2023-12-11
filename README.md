@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Machine Learning and Profile Matching Method
 
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning PHP
 
 - 👯 I’m looking to collaborate on <pending ideas\>
 
