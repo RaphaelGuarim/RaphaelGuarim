@@ -2,17 +2,13 @@
 
 <h3 align="center">An App development student looking for new experiences</h3>
 
-- 🔭 I’m currently working on Machine Learning and Profile Matching Method
-
-- 🌱 I’m currently learning PHP
-
-- 👯 I’m looking to collaborate on <pending ideas\>
+- 🔭 I’m currently working on Geo data mapping
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaphaelGuarim](https://github.com/RaphaelGuarim)
 
 - 📫 How to reach me **raphaguarim@gmail.com**
 
-- ⚡ Fun fact **I'm also a junior geo data mapper**
+- ⚡ Fun fact **I'm Interested in History and Geography and I'm also a Wikipedia author/corrector **
 
 
 
